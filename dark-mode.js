@@ -1,0 +1,1 @@
+javascript:(function(){const style=document.createElement("style"),selectors="a{color:skyblue;}html,.mw-body-content h2,#firstHeading,#mw-panel,#catlinks,.thumbcaption,#bodyContent,#content,#mw-head,#toc,.thumbinner{background-color:#000;color:#fff;}",text=document.createTextNode(selectors);style.appendChild(text),document.querySelector("head").appendChild(style);})();
